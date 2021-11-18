@@ -1,5 +1,6 @@
 # HTP5_19PIfromInfiniteSeries
-
+# Code Reviews?  Comments?  Anything?
+# subliminalchaos mail.com
 <b>.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.</b>
 
   5.19 (Calculating the Value of ) Calculate the value of π from the infinite series
@@ -14,4 +15,3 @@
 
 <b>.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.</b>
 
-Code Reviews?  Comments?  Anything?  -- subliminalchaos mail.com
